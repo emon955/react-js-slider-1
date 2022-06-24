@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/react-js-slider-1/static/css/main.073c9b0a.css",
-    "main.js": "/react-js-slider-1/static/js/main.1610af55.js",
+    "main.css": "/react-js-slider-1/static/css/main.72c8e4c7.css",
+    "main.js": "/react-js-slider-1/static/js/main.c1a8f596.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-js-slider-1/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/react-js-slider-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/pexels-mike-b-3791376.jpg": "/react-js-slider-1/static/media/pexels-mike-b-3791376.a889d9db1b7b86314713.jpg",
+    "static/media/pexels-lucius-crick-10684072.jpg": "/react-js-slider-1/static/media/pexels-lucius-crick-10684072.6a4a966cf5d774022e0a.jpg",
+    "static/media/pexels-mat-sheard-9620904.jpg": "/react-js-slider-1/static/media/pexels-mat-sheard-9620904.54003453454f9f2acb9b.jpg",
+    "static/media/pexels-poyee-tsang-12139755.jpg": "/react-js-slider-1/static/media/pexels-poyee-tsang-12139755.32db6be33109d27c02be.jpg",
     "index.html": "/react-js-slider-1/index.html",
-    "main.073c9b0a.css.map": "/react-js-slider-1/static/css/main.073c9b0a.css.map",
-    "main.1610af55.js.map": "/react-js-slider-1/static/js/main.1610af55.js.map",
+    "main.72c8e4c7.css.map": "/react-js-slider-1/static/css/main.72c8e4c7.css.map",
+    "main.c1a8f596.js.map": "/react-js-slider-1/static/js/main.c1a8f596.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-js-slider-1/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1610af55.js"
+    "static/css/main.72c8e4c7.css",
+    "static/js/main.c1a8f596.js"
   ]
 }
